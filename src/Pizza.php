@@ -7,7 +7,7 @@ abstract class Pizza
     public string $name;
     public string $sauce;
     /**
-     * @var array<string, string>
+     * @var array<int, string>
      */
     public array $toppings = [];
     public function prepare(): void
