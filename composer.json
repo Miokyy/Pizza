@@ -1,6 +1,6 @@
 {
     "name": "mioky/lvl5",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Mioky\\Lvl5\\": "src/"
